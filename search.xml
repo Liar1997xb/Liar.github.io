@@ -2,20 +2,6 @@
 <search>
   <entry>
     <title>categories test</title>
-    <url>/2018/04/27/categories%E4%B8%89%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
-      <categories>
-        <category>前端</category>
-        <category>后端</category>
-        <category>小程序</category>
-        <category>uni-app</category>
-      </categories>
-      <tags>
-        <tag>vue</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>categories test</title>
     <url>/2018/04/27/categories-test/</url>
     <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
       <categories>
@@ -24,6 +10,16 @@
       <tags>
         <tag>vue</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/2022/09/04/about/</url>
+    <content><![CDATA[<blockquote>
+<p>A developer</p>
+</blockquote>
+<p>name: Liar</p>
+<p>Github: </p>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -42,6 +38,20 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>categories test</title>
+    <url>/2018/04/27/categories%E4%B8%89%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
+      <categories>
+        <category>前端</category>
+        <category>后端</category>
+        <category>小程序</category>
+        <category>uni-app</category>
+      </categories>
+      <tags>
+        <tag>vue</tag>
+      </tags>
   </entry>
   <entry>
     <title>First time to use hexo</title>
