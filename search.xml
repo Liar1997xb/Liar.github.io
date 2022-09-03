@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>categories test</title>
-    <url>/2018/04/27/categories-test/</url>
-    <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>vue</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/09/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -30,16 +19,40 @@
 ]]></content>
   </entry>
   <entry>
+    <title>categories test</title>
+    <url>/2018/04/27/categories-test/</url>
+    <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>vue</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>First time to use hexo</title>
     <url>/2018/05/13/tags-test/</url>
     <content><![CDATA[<h2 id="tag-test"><a href="#tag-test" class="headerlink" title="tag test"></a>tag test</h2>]]></content>
       <categories>
-        <category>前端</category>
         <category>后端</category>
       </categories>
       <tags>
         <tag>vue</tag>
         <tag>vue3</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>categories test</title>
+    <url>/2018/04/27/categories%E4%B8%89%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<h2 id="categories-test"><a href="#categories-test" class="headerlink" title="categories test"></a>categories test</h2>]]></content>
+      <categories>
+        <category>前端</category>
+        <category>后端</category>
+        <category>小程序</category>
+        <category>uni-app</category>
+      </categories>
+      <tags>
+        <tag>vue</tag>
       </tags>
   </entry>
   <entry>
